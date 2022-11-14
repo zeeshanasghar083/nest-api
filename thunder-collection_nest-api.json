@@ -1,0 +1,23 @@
+{
+  "client": "Thunder Client",
+  "collectionName": "nest-api",
+  "dateExported": "2022-11-14T14:01:40.151Z",
+  "version": "1.1",
+  "folders": [],
+  "requests": [
+    {
+      "_id": "8f105861-e886-4358-b89f-dfabbe5255c6",
+      "colId": "60952e59-10cb-48e0-9019-b6bb4f0aff77",
+      "containerId": "",
+      "name": "get all users",
+      "url": "{{url}}/user",
+      "method": "GET",
+      "sortNum": 10000,
+      "created": "2022-11-14T14:00:10.516Z",
+      "modified": "2022-11-14T14:01:04.415Z",
+      "headers": [],
+      "params": [],
+      "tests": []
+    }
+  ]
+}
